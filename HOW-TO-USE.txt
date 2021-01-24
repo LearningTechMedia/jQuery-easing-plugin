@@ -3,7 +3,7 @@ in index.html
 
  <script src="jquery.easing.min.js"></script>
 
-Step 01 :  JS Code
+Step 02 :  JS Code
 
 <script>
 
